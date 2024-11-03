@@ -15,9 +15,9 @@ p2Last = '8.234.245.255'
 
 #problem 3
 p3Network = '175.219.207.176'
-p3Broadcast = ''
-p3First = ''
-p3Last = ''
+p3Broadcast = '175.219.207.191'
+p3First = '175.219.207.177'
+p3Last = '175.219.207.190'
 
 #problem 4
 p4Network = ''
@@ -50,16 +50,16 @@ p8First = ''
 p8Last = ''
 
 #problem 9
-p9Network = ''
-p9Broadcast = ''
-p9First = ''
-p9Last = ''
+p9Network = '153.130.233.128'
+p9Broadcast = '153.130.233.255'
+p9First = '153.130.233.129'
+p9Last = '153.130.233.254'
 
 #problem 10
-p10Network = ''
-p10Broadcast = ''
-p10First = ''
-p10Last = ''
+p10Network = '64.115.195.224'
+p10Broadcast = '64.115.195.231'
+p10First = '64.115.195.225'
+p10Last = '64.115.195.230'
 
 
 """
