@@ -2,7 +2,7 @@
 uniquecode = 9143
 
 #problem 1
-p1Network = '97.249.27.103'
+p1Network = '97.249.27.96'
 p1Broadcast = '97.249.27.127'
 p1First = '97.249.27.97'
 p1Last =  '97.249.27.126'
